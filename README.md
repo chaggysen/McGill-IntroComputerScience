@@ -1,6 +1,10 @@
 # McGill-IntroComputerScience
 Assignments for Introduction to Computer Science class at McGill University
 
+## Final Project: Twitter
+For this project you will write several classes to simulate searching through a Twitter-like data base. Make sure you implement all required methods according to the instructions given below. In addition to the required methods, you are free to add as many other private methods as you want.
+
+
 ## Assignment 1: Travel Agency
 For this assignment you will write several classes to simulate an online travel agency.
 
